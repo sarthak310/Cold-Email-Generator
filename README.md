@@ -3,9 +3,9 @@ Cold email generator using groq, langchain and streamlit. It allows users to inp
 
 ## Example
 ### Job Description from a posting on Google
-![img.png](imgs/job description.png)
+![img.png](imgs/job_description.png)
 ### Generated Result
-![img.png](imgs/generated example eg.png)
+![img.png](imgs/generated_example_eg.png)
 
 ## Architecture Diagram
 ![img.png](imgs/architecture.png)
